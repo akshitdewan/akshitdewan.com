@@ -5,3 +5,13 @@ background: url(./blue-background.jpg) no-repeat center center fixed;
   -o-background-size: cover;
   background-size: cover;
 }
+
+.grid-image {
+    width: 100%;
+    height: auto;
+}
+
+.parent {
+    margin: 0;
+    padding: 0;
+}
