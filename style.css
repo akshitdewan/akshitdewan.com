@@ -23,8 +23,8 @@ background: url(./blue-background.jpg) no-repeat center center fixed;
 
 @media (min-width: 768px) {
     .modal-xl {
-      width: 90%;
+     width: 90%;
      max-width:1200px;
     }
-  }
+}
 
