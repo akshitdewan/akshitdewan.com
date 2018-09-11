@@ -10,6 +10,16 @@ background: url(./blue-background.jpg) no-repeat center center fixed;
 .grid-image {
     width: 100%;
     height: auto;
+    -webkit-filter: brightness(100%);
+}
+
+.grid-image:hover {
+    -webkit-filter: brightness(60%);
+    -webkit-transition: all 1s ease;
+    -moz-transition: all 1s ease;
+    -o-transition: all 1s ease;
+    -ms-transition: all 1s ease;
+    transition: all 1s ease;
 }
 
 .parent {
