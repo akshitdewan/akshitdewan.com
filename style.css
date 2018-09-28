@@ -83,3 +83,85 @@ body {
     }
 }
 
+
+.red {
+    border: 1px solid red;
+}
+
+
+
+.full {
+    height: 100vh;
+}
+
+.main-image {
+    height: 30vh;
+    display: block;
+    margin: 0 auto;
+    border: 1px solid orange;
+}
+
+.green {
+    border: 1px solid green;
+}
+
+
+
+.big4-image {
+ height: 130px;
+ display: block;
+ margin: 0 auto;
+}
+
+
+
+.fun-image {
+    height: 30vh;
+    margin: 0 auto;
+    display: block;
+}
+
+@media (max-width: 768px) { 
+    .fun {
+        display: none;
+    }
+    .full {
+        height: auto;
+    }
+}
+
+.fun {
+    height: 40vh;
+}
+
+.about-me {
+    height: 60vh;
+}
+
+.black {
+    border: 1px solid black;
+}
+
+.flex-container {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.flex-row {
+    display: flex !important;
+    flex: 1 !important;
+}
+
+.flex-box {
+    width: 200px;
+    height: 100px;
+    display: flex;
+    background-color: red;
+}
+
+.big4-image-container {
+    display: flex;
+    align-items: center;
+}
