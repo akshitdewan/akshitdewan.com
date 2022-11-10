@@ -69,6 +69,6 @@ How is a single price displayed for stocks if there is a spread between the bid 
 
 
 #### Simpler real world example
-We can see this idea in examples outside of the stock market, too. One of the forms of a grocery store is to market make by buying a specific amount of a product and betting on being able to sell it later. For example, Best Buy could buy 500 Wii's from Nintendo, so Nintendo can sell profit immediately. Consumers can then show up at any time to buy the Wii from Best Buy, but Nintendo didn't have to wait for consumers to show up!
+We can see this idea in examples outside of the stock market, too. One of the functions of a retail store is to market make by buying a specific amount of a product and betting on being able to sell it later. For example, Best Buy could buy 500 Wii's from Nintendo, so Nintendo can sell profit immediately. Consumers can then show up at any time to buy the Wii from Best Buy, but Nintendo didn't have to wait for consumers to show up!
 
 [^1]: The examples I found all seemed to be missing the time component of market making. They'd say that a market maker advertises a bid and ask, and profits by selling at the ask and buying at the bid while keeping the ask higher than the bid. I'd always be left asking, "If there is a buyer willing to pay the ask price and another willing to pay the bid price, why wouldn't they just trade for each other and save some money?". The answer is that these two buyers don't exist at the same time.
