@@ -2,7 +2,7 @@
 layout: post
 title:  "Market Making"
 date:   2022-11-09 23:51:01 -0800
-categories: jekyll update
+permalink: mm.html
 ---
 I tried to find a good description of market making online, but the articles I found seemed to each be missing components or a complete example [^1]. So I'm going to give it a go!
 <!-- This post won't attempt to cover all parts of market making, only offer a complete and self contained example. -->
