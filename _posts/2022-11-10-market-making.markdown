@@ -7,7 +7,7 @@ permalink: mm.html
 I tried to find a good description of market making online, but the articles I found seemed to each be missing components or a complete example [^1]. So I'm going to give it a go!
 <!-- This post won't attempt to cover all parts of market making, only offer a complete and self contained example. -->
 
-I'll start with an example scenario on the stock market, and generalize to a definition of market making.
+I'll start with an example scenario on the stock market, and then provide connections to things you may have seen in markets.
 
 #### Example: trading AAPL shares
 
