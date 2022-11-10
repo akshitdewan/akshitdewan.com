@@ -48,8 +48,7 @@ $6.5  John sells, Citadel buys
 $5: Bob wants to buy
 ``` 
 
-**So what happened here?**
-Citadel was willing to hold John's share temporarily until Janice arrived. This allowed them both to get a better price than before. John and Janice had no guarantee that the other would arrive, so Citadel was rewarded with $2 for taking the risk.
+So what happened here? Citadel was willing to hold John's share temporarily until Janice arrived. This allowed them both to get a better price than before. John and Janice had no guarantee that the other would arrive, so Citadel was rewarded with $2 for taking the risk.
 
 #### Risk
 Why does the market maker get to profit? Time.
