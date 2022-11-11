@@ -58,7 +58,7 @@ In the example before, the market maker profited because of the delay between Jo
 #### Spreads
 The market maker can choose to put the bid and ask anywhere, as long as they put the bid higher than the ask. In our example, the market maker gave a $6.5 to $8.5 range. This gap of $2 is the market maker's profit and is known as a spread.
 
-In practice, this range is much smaller, often closer to a few cent per spread. This is because many market makers are competing to get the sale. If there was only one market maker, they could get away with charging just a little bit below the price and offering close to the bid price. Then, the consumers would barely benefit but the market maker would have the most profit.
+In practice, this range is much smaller, often closer to a few cents per spread. This is because many market makers are competing to get the sale. If there was only one market maker, they could get away with charging just a little bit below the ask price and offering close to the bid price. Then, the consumers would barely benefit but the market maker would have the most profit.
 
 Spreads are affected by things like market maker operational costs and risk. If a market maker has few costs, they can afford to set narrower spreads. If the markets are highly volatile, a market maker might want to set a wider spread, to compensate for the additional risk.
 
