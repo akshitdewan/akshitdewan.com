@@ -1,5 +1,0 @@
-## hello world
-
-this is an experiment
-
-do *i* have $$math$$ mode? $$5 + 5 = 10$$. The ansewr is no.
