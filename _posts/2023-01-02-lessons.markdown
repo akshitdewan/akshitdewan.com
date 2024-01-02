@@ -1,0 +1,101 @@
+---
+layout: post
+title:  "Things I’ve learned recently (11/2023-12/2023)"
+date:   2024-01-02 00:00:00−0800
+permalink: lessons-1.html
+---
+Just putting together some learnings about myself and work that I’ve been thinking about in the past couple months. Thematically I've been pretty focused on work lately, so probably half of these are about that.
+
+## Personal Lessons
+
+**Consistency and putting in the work**
+
+I think I’ve tended to overvalue the efficiency of the time I spend on something and undervalue the time spent. Some examples that come to mind are cooking and going to the gym. I think I would be better at cooking and build more muscle if I just did these things every day or two instead of sporadically. The step of making an individual cooking experience more valuable or optimizing the specific workout should happen after, and it should never get in the way of actually doing the thing. One example of it getting in the way is if what I cook always takes a while because I try to pick the most interesting recipes, I’ll be resistant to doing it more often because it takes too long.
+
+**When the feedback loop is short, just try the thing. Relatedly, make decisions faster.**
+
+This one was from this [blog post](https://dynomight.net/noise/) where the author spent a long time trying to find the best solution for dealing with his sensitivity to a particular kind of noise, but one day he bought Active Noise Cancellation headphones and those just solved his problem. The lesson here was that it takes very little time for him to just try this solution, but he still ended up spending years (I think?) reasoning from first principles to figure it out.
+
+I think this is related to things I was doing, which was spending too long on decisions e.g. what to buy. For cheap things, I’m trying to just go for it after a few minutes of browsing and I’ve generally been happy with my purchases so far. Similarly, there’s a lot of bullshit in self-help books but sometimes it’s pretty easy to test it out and see if it works for me instead of trying to reason from first principles.
+
+**Expectation setting is powerful**
+
+I’m not exactly sure what brought this to my attention, but at some point I started noticing that I’m not a huge fan of when I had a certain expectation for how an interaction would go and then it ends up going differently. I think we should be better about aligning expectations with each other.
+
+This can apply in social settings, e.g. if two friends were hanging out and one of them expected to be together for a while but the other had a timebox in their head that they hadn’t communicated. I’ve also been thinking about it at Schoolhouse, e.g. where lots of learners sign up for a tutoring session so tutors expect there to be a populated session, but learners tend to view signing up as “seems cool, maybe I’ll come”.
+
+I think I’ve tended to under-communicate in this area and have sometimes had to abruptly interrupt or derail plans because of it. So I’m trying to be more clear and give more heads ups.
+
+**I don’t tend to stick with things and want to stick with more things**
+
+I generally notice a tendency to get excited and go hard on something for a few weeks but then drop it afterwards. Most recently I tried to fix some flexibility issues with my shoulder and was pretty religious about it for a while, but then just fell off. I’ve gotten 20% through a bunch of books this year. I made lots of kinds of bread over the summer, but now I just don’t make bread. In one sense this feels kind of normal—most things can’t stick. But idk, I wish more things stuck. Especially for something like flexibility issues, a few weeks isn’t gonna make any meaningful dent.
+
+*Update:* This assessment isn’t the most fair—I do stick with some things. Most obviously I’ve stuck with software and teaching for 7 years or so. I think Ukulele will stick because I’ve gotten over the hump and there isn’t  activation energy to playing. I actually do make bread still, just not as often (also just channeled that energy into cooking generally). I don’t know if I’ll work on this skill, maybe just see what happens.
+
+**I’ve been struggling more with focus than I ever have before**
+
+I’ve been noticing this for a couple of reasons: 
+
+- The nature of full-time work has so far been super different from internships and college and high school. For the first couple weeks it felt really similar to interning, but now I’m involved in so many more things than I used to be. So keeping track of all these contexts and prioritizing is already hard.
+  - It’s also easier to go on tangents because the surface area of things I think about has expanded a lot.
+  - I’ve also sometimes been doing more thinking-oriented or generally open ended tasks and sometimes when I don’t have clear direction I just do something else.
+- I’ve been getting lazy and leaning into working passively (like sitting on the couch blasting music, letting life things interrupt the workday, etc.)
+- I don’t take the deadlines I set for myself as seriously as I’d like to.
+
+I’ve been actively trying to work on this. First, I tried to work on the intentional prioritization by doing weekly themes, goals, and reflections. I tried to work on environment last week by trying WeWork’s. And I tried to work on working through open-endedness by breaking down tasks into tiny chunks (which has also helped with time estimation and general planning). All of these things have actually been pretty useful. WeWork especially for the generally getting distracted bit.
+
+### Work Lessons
+
+**Enterprise software**
+
+It’s been finally solidifying in my head how sticky enterprise software can be.
+
+- picking a product and sticking with it is a lot easier for the enterprise. Especially when the enterprise is bureaucratic, moves slowly (e.g. schools, government), the barrier to adopting a new product is high
+  - some big reasons that come to find are that you need to get new software approved and that might be a long process, you need to figure out how to port over from your previous tool, you need to teach everyone how to use it
+- having one system that does everything is easier in small ways over having multiple
+  - e.g. the biggest one I notice is that you don’t need to figure out how to get data over from one tool to the next, the data just exists in the system. (non-enterprise example, when my RAM is being demolished I am still resistant to using Safari because my passwords aren’t there, my golinks don’t work, etc.)
+- enterprise software slowly expands to fill more and more needs of their customers, making it stickier and stickier. enterprises will choose a worse service offered by a provider they already use because it comes with the benefits of staying on one platform.
+  - example I found interesting: I talked to my uncle and aunt about things they’ve been building at [https://www.parentsquare.com/](https://www.parentsquare.com/) (a parent-teacher communication software), and they’ve recently been building a drag and drop website builder from. When I first heard about this, it didn’t make sense to me that they’d be building this if so many companies already exist whose core product is a website builder. But there’s a lot of reasons this makes sense now (see [SmartSites](https://www.parentsquare.com/school-website-design/)), here’s a few:
+    - ParentSquare already has data like teacher directories, school events, etc. so schools don’t need to explicitly keep their website up to date
+    - Communications on ParentSquare can easily be integrated into website posts, modals, etc. (e.g. if you make a snow day announcement, this can go on your website, parentsquare portal and texts)
+    - Signing in and permissioning
+      - Teachers and parents already have a way to log in to ParentSquare, so there’s no additional work needed to set this up
+
+Relatedly, a lesson I’ve been learning at [Schoolhouse](https://schoolhouse.world/) is how powerful distribution is. There’s only so far we can get with organically growing the network of learners and tutors that we have. If we want to take our programs to the next level, we have to instead work with school districts or Khan Academy or anyone with access to a large network of learners.
+
+**Creating a small group tutoring session where multiple learners benefit has been unexpectedly challenging**
+
+We’re running into this over and over again at [Schoolhouse](https://schoolhouse.world/). Learners tend to be in different places in their academic journey and learn things at different rates. We matched groups of 2-3 people on the math course they were taking (including trying to align their academic performance in the course). We didn’t give tutors much guidance on how to help, and as a result they tried a few different strategies all of which didn’t quite work:
+
+- they’d try to use Khan Academy to diagnose learners’ needs, but it wasn’t really clear what unit to work on or whether it was valuable to learners
+- they asked the learners what they wanted to work on, and the answer was usually what was going on at school or their homework. this was usually specific, so the others would just sit there.
+- they’d try to bring a curriculum (e.g. go week by week in algebra), but it wouldn’t necessarily be connected or relevant to what learners knew and wanted to learn
+
+I imagine if we put people in the same classroom in the same group, it could be a lot better. Or if we had a much more precise way to match learners based on learning speed and where they were at school.
+
+**I need to get better at closing loops**
+
+I’m usually pretty eager to open threads about what we should work on or things we should look into, but feel like I struggle with opening lots of threads and not following through. I’ve been trying to be more intentional about writing down which areas I care most about and following up there.
+
+Similarly, I think an important skill that’s hard to remember to do for me is monitoring things I implemented to see if they’re working and learning from them. For code, I used to default to hitting merge and then not really thinking about it after that. For product experiments, I want to make sure I don’t end up in the situation where I try an experiment to figure out some hypothesis but don’t leave with good answers to how correct it was.
+
+Another skill related to this: when I’m reviewing someone’s work and I care about the outcome, I can go one step further than just providing my thoughts about what’s lacking. I can do the extra work and provide an alternative way of writing or doing something. Otherwise, I 1) end up putting the burden on the other person and 2) it’s less likely that my suggestion will be implemented. Thematically, this is part of feeling ownership over more things.
+
+For example, I was recently reviewing a list of follow-ups to our intern interview problem. When making suggestions, I could either say something broad like “maybe we can add questions that involve some higher level product thinking” or I can provide 3 suggestions that accomplish that.
+
+**Program management requires a lot of skills that I’ve never really explicitly thought about.** 
+
+Things like thorough planning, communication that’s timely and at the right level, and consistent execution.
+
+We’ve been running various small-scale programs at Schoolhouse as experiments to figure out which programs to scale up. I recently ran one of these with my coworker—didn’t really think too hard about it. Most of the work was operational tasks: recruiting tutors, recruiting learners, creating a guide for tutors, gathering efficacy data, etc. I don’t think any of these tasks are particularly complicated, but I messed up in a bunch of ways, here’s one example of each:
+
+- communication: I did analyses of how the program was going, but I wasn’t thorough enough and often didn’t put together a digestible doc for others. A lot of takeaways just lived in random brainstorming docs. I would personally build intuitions as a result of doing these analyses, and while I’d share those high level intuitions with others, I need to go a step further to make sure I 1) properly synthesize what’s in my brainstorming docs and 2) put both my takeaways and justifications in a form for others.
+  - I don’t know where to put this tangent, but another skill that I noticed some coworkers of mine are great at is communicating clearly what you need from someone, by when, and following up when necessary. When I assisted with some eng-work for a program they were running, I felt like everything I needed to know was inside [ACTION NEEDED] bullet points of a Slack message. If I wanted, I could almost entirely ignore everything else and just what was needed without thinking.
+- thorough planning: We were supposed to run a raffle to reward learners for completing some optional practice, but I didn’t think through the information I’d have needed to collect from learners to do it. I would’ve realized this if I did the full planning of it ahead of time instead of just having a vague sense that we were running a raffle.
+- consistent execution: A small thing that someone who ran a similar program did was send emails to learners who missed a tutoring session, both reminding them to attend and asking them why didn’t come. I hadn’t thought to do this, but even if I had I think I wouldn’t have been diligent about it. Usually, my working style leans towards doing things when I suddenly remember them or feel energized to do them.
+
+None of these skills seem like rocket science, so I’m just gonna try to practice them and see what happens.
+
+**A reviewer stamping your PR doesn’t really change that you’re responsible for it’s correctness**
+
+I read some version of this on [Hixie’s blog](https://ln.hixie.ch/?start=1610654145&order=-1&count=5). When I used to intern and felt uncertain about my code’s quality or comprehensiveness, I used to rely a lot on a reviewer marking the approve button to feel like the code was ready. Sometimes I wouldn’t be as thorough and then if the reviewer didn’t catch it, assume something wasn’t as important as I thought. But at the end of the day, the reviewer didn’t write the code and probably didn’t test the code, so they can only give their best judgement based on the 15-30 minutes they spent looking at the PR. So I’ve been working on taking more ownership over my work.
