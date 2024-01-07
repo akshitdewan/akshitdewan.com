@@ -54,12 +54,12 @@ It’s been finally solidifying in my head how sticky enterprise software can be
   - some big reasons that come to find are that you need to get new software approved and that might be a long process, you need to figure out how to port over from your previous tool, you need to teach everyone how to use it
 - having one system that does everything is easier in small ways over having multiple
   - e.g. the biggest one I notice is that you don’t need to figure out how to get data over from one tool to the next, the data just exists in the system. (non-enterprise example, when my RAM is being demolished I am still resistant to using Safari because my passwords aren’t there, my golinks don’t work, etc.)
-- enterprise software slowly expands to fill more and more needs of their customers, making it stickier and stickier. enterprises will choose a worse service offered by a provider they already use because it comes with the benefits of staying on one platform.
-  - example I found interesting: I talked to my uncle and aunt about things they’ve been building at [https://www.parentsquare.com/](https://www.parentsquare.com/) (a parent-teacher communication software), and they’ve recently been building a drag and drop website builder from. When I first heard about this, it didn’t make sense to me that they’d be building this if so many companies already exist whose core product is a website builder. But there’s a lot of reasons this makes sense now (see [SmartSites](https://www.parentsquare.com/school-website-design/)), here’s a few:
-    - ParentSquare already has data like teacher directories, school events, etc. so schools don’t need to explicitly keep their website up to date
-    - Communications on ParentSquare can easily be integrated into website posts, modals, etc. (e.g. if you make a snow day announcement, this can go on your website, parentsquare portal and texts)
-    - Signing in and permissioning
-      - Teachers and parents already have a way to log in to ParentSquare, so there’s no additional work needed to set this up
+- enterprise software slowly expands to fill more and more needs of their customers, making it stickier and stickier. enterprises will choose a worse service offered by a provider they already use because it comes with the benefits of staying on one platform. 
+  - an interesting example for me: I was talking to people at a company that makes communicatication software for schools, and they've recenlty been building a drag-and-drop website builder tool. For a while I didn't get it because so many website builder tools already exist. But there's a lot of reasons this makes sense to me now.
+    - They already have data like teacher directories, school events, etc. so schools don’t need to explicitly keep their website up to date
+    - Communication on the tool can be linked to website announcements
+    - Authentication is already taken care of
+    - School websites generally look very similar and have the same set of features. This website builder can offer domain-specific features that a Wix or Squarespace won't bother with
 
 Relatedly, a lesson I’ve been learning at [Schoolhouse](https://schoolhouse.world/) is how powerful distribution is. There’s only so far we can get with organically growing the network of learners and tutors that we have. If we want to take our programs to the next level, we have to instead work with school districts or Khan Academy or anyone with access to a large network of learners.
 
